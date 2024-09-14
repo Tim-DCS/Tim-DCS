@@ -9,7 +9,7 @@
 - ⚡ Fun fact ... **Chinese cartoon**❤
 - 📫 How to reach me ...**Tim-DCS@126.com**
 
-![](https://raw.githubusercontent.com/Tim-DCS/Tim-DCS/main/dist/github-contribution-grid-snake.svg)
+![](https://raw.githubusercontent.com/Tim-DCS/Tim-DCS/output/dist/github-contribution-grid-snake.svg)
 
 <figure class="half">
    <img align="left" width="420" height="165" src="https://github-readme-streak-stats.herokuapp.com?user=Tim-DCS&theme=merko&date_format=M%20j%5B%2C%20Y%5D" />
