@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning ...**MAUI, React, Golang**
 - 💬 Ask me about ...**.NET Core, React**
 - ⚡ Fun fact ... **Chinese cartoon**❤
-- 📫 How to reach me ...**Tim-DCS@126.com**
+- 📫 How to reach me ...**tim.wei@synthesis.bz**
 
 ![](https://raw.githubusercontent.com/Tim-DCS/Tim-DCS/output/github-contribution-grid-snake.svg)
 
