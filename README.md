@@ -11,13 +11,6 @@
 
 ![](https://raw.githubusercontent.com/Tim-DCS/Tim-DCS/output/github-contribution-grid-snake.svg)
 
-<figure class="half">
-   <!--<a href="https://github.com/denvercoder1/github-readme-streak-stats"><img align="left" width="400" height="165" src="https://github-readme-streak-stats.herokuapp.com?user=Tim-DCS&theme=prussian" alt="GitHub Streak" /></a>-->
-   <img width="400" height="165" src="https://github-readme-stats.vercel.app/api?username=Tim-DCS&show_icons=true&theme=merko" />
-</figure>
-
-<p align="left"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Tim-DCS&margin-w=15" alt="Tim-DCS" /></a> </p>
-
 <h3 align="left">Skills and Tools:</h3>
 <p align="left"> 
    <img style="margin: auto;" src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="60" height="60"/> 
